@@ -37,12 +37,6 @@ auto.spec     → configuração utilizada para geração do executável
 produtos.csv  → arquivo de exemplo utilizado nos testes
 ```
 
-## Demonstração
-
-Vídeo demonstrando o funcionamento da automação:
-
-https://youtu.be/S5eSRPbXhK4
-
 ## Objetivo do projeto
 
 Projeto desenvolvido como aplicação prática de conhecimentos em Python, automação web, manipulação de dados e desenvolvimento de interfaces gráficas.
